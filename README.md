@@ -37,7 +37,7 @@ The dataset for this project is included in the `data` folder. It contains table
 ### Steps to Get Started
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/ola-data-analytics-project.git
+   git clone https://github.com/rahulsql/ola-data-analytics-project.git
    ```
 2. Navigate to the project directory:
    ```bash
